@@ -1,6 +1,6 @@
-# Neno-Codes-Terms
+# Infinix-Terms
 
-**By using Neno Codes you agree and accept the following terms of service.**
+**By using Infinix you agree and accept the following terms of service.**
 
 1. [discord.com/terms](https://discord.com/terms)
 2. Read and agreed to our [privacy policy](https://github.com/ishannheree/Neno-Codes-Privacy-Policy/blob/main/README.md)
