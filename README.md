@@ -3,7 +3,7 @@
 **By using Infinix you agree and accept the following terms of service.**
 
 1. [discord.com/terms](https://discord.com/terms)
-2. Read and agreed to our [privacy policy](https://github.com/ishannheree/Neno-Codes-Privacy-Policy/blob/main/README.md)
+2. Read and agreed to our [privacy policy](https://github.com/simplyishan/Infinix-Privacy-Policy)
 
 # Prohibited Activities
 
